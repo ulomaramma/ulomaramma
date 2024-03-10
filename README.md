@@ -35,9 +35,12 @@ I'm a Senior Full-Stack Engineer specializing in enterprise application developm
 - **DevOps:**  Azure
 - **Tools:** Git, GitHub, Visual Studio Code, Visual Studio, IntelliJ IDE
 
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ulomaramma&layout=compact)
+
 ## 📈 GitHub Stats
 
 ![Uloma's GitHub Stats](https://github-readme-stats.vercel.app/api?username=ulomaramma&show_icons=true&theme=radical)
+
 
 ## 🌐 Socials
 - [Medium](https://medium.com/@ulomaobilookenyi)
