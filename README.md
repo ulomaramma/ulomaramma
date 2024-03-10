@@ -15,45 +15,34 @@
 
 ###
 
-<h1 align="center">Hello!! My Name is Uloma Okenyi 👋</h1>
+# Hi there, I'm Uloma Okenyi👋
 
-###
+## 👨‍💻 About Me
+I'm a Senior Full-Stack Engineer specializing in enterprise application development. I blend innovative design techniques with cutting-edge technologies to create high-quality web applications. Passionate about open-source contributions to enhance my skills and collaborae with other developers 
 
-<h3 align="left">👩‍💻  About Me</h3>
+- 🔭 I’m currently working on building scalable web applications using **ASP.NET Core**, **React.Js**, **Node.js**. 
+- 🌱 I’m always learning more about **web development**, **software architecture**, and **cloud computing**.
+- 👯 I’m looking to collaborate on open-source projects in **.NET**, **JavaScript**, or **Java** ecosystems.
+- 💬 Ask me about **full-stack development**, **ASP.NET Core**, **React**, and **software design patterns**.
+- 📫 How to reach me: [uloma.okenyi@visionbling.com](mailto:uloma.okenyi@visionbling.com)
+- ⚡ Fun fact: I own a community know as [Visionbling](https://visionbling.com/)
 
-###
+## 🛠 Tech Stack
 
-<p align="left">I'm a Senior Software full-stack  Engineer who specializes in developing enterprise applications. For the front end, I use ASP.NET Core (Razor Pages), and React.Js. While for the back-end, I use the ASP.NET Core Web API, Node.js, and Spring Boot.<br><br>💻 Open Source Contributions<br>I make sure I find time to contribute to open-source projects, which help to improve my knowledge and ability to work with other developers. <br><br><br>- ⚡ In my free time, I like blogging about the open source projects I have worked on through medium profile  https://medium.com/@ulomaobilookenyi</p>
+- **Frontend:** HTML5, CSS3, JavaScript, React.js, Razor Pages, Jquery Ajax
+- **Backend:** ASP.NET Core Web API, Node.js, Spring Boot
+- **Databases:** SQL Server, PostgreSQL, MongoDB
+- **DevOps:**  Azure
+- **Tools:** Git, GitHub, Visual Studio Code, Visual Studio, IntelliJ IDE
 
-###
+## 📈 GitHub Stats
 
-<h3 align="left">🛠 Language and tools</h3>
+![Uloma's GitHub Stats](https://github-readme-stats.vercel.app/api?username=ulomaramma&show_icons=true&theme=radical)
 
-###
-
-<div align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dot-net/dot-net-original.svg" height="40" alt="dot-net logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dotnetcore/dotnetcore-original.svg" height="40" alt="dotnetcore logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/azure/azure-original.svg" height="40" alt="azure logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/microsoftsqlserver/microsoftsqlserver-plain.svg" height="40" alt="microsoftsqlserver logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="40" alt="nodejs logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" height="40" alt="mongodb logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jquery/jquery-original.svg" height="40" alt="jquery logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="40" alt="react logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="40" alt="git logo"  />
-</div>
-
-###
-
-<h3 align="left">🔥   My Stats :</h3>
+## 🌐 Socials
+- [Medium](https://medium.com/@ulomaobilookenyi)
+- [LinkedIn](https://www.linkedin.com/in/uloma-obilo-okenyi/)
 
 
-###
+📝 I  write articles on [Medium](https://medium.com/@ulomaobilookenyi) about my experiences and lessons learned from working on the projects I have worked on
+
