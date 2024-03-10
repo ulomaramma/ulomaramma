@@ -21,7 +21,7 @@
 I'm a Senior Full-Stack Engineer specializing in enterprise application development. I blend innovative design techniques with cutting-edge technologies to create high-quality web applications. Passionate about open-source contributions to enhance my skills and collaborae with other developers 
 
 - 🔭 I’m currently working on building scalable web applications using **ASP.NET Core**, **React.Js**, **Node.js**. 
-- 🌱 I’m always learning more about **web development**, **software architecture**, and **cloud computing**.
+- 🌱 I’m always learning more about **software architecture**, and **cloud computing**.
 - 👯 I’m looking to collaborate on open-source projects in **.NET**, **JavaScript**, or **Java** ecosystems.
 - 💬 Ask me about **full-stack development**, **ASP.NET Core**, **React**, and **software design patterns**.
 - 📫 How to reach me: [uloma.okenyi@visionbling.com](mailto:uloma.okenyi@visionbling.com)
