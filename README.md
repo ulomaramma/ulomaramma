@@ -11,6 +11,9 @@
   <a href="uloma.okenyi@visionbling.com" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="gmail logo"  />
   </a>
+   <a href="https://medium.com/@ulomaobilookenyi" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=Medium&logo=medium&label=&color=12100E&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="medium logo"  />
+  </a>
 </div>
 
 ###
@@ -40,11 +43,6 @@ I'm a Senior Full-Stack Engineer specializing in enterprise application developm
 ## 📈 GitHub Stats
 
 ![Uloma's GitHub Stats](https://github-readme-stats.vercel.app/api?username=ulomaramma&show_icons=true&theme=radical)
-
-
-## 🌐 Socials
-- [Medium](https://medium.com/@ulomaobilookenyi)
-- [LinkedIn](https://www.linkedin.com/in/uloma-obilo-okenyi/)
 
 
 📝 I  write articles on [Medium](https://medium.com/@ulomaobilookenyi) about my experiences and lessons learned from working on the projects I have worked on
