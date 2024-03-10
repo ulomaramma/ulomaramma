@@ -26,7 +26,7 @@ I'm a Senior Full-Stack Engineer specializing in enterprise application developm
 - 👯 I’m looking to collaborate on open-source projects in **.NET**, **JavaScript**, or **Java** ecosystems.
 - 💬 Ask me about **full-stack development**, **ASP.NET Core**, **React**, and **software design patterns**.
 - 📫 How to reach me: [uloma.okenyi@visionbling.com](mailto:uloma.okenyi@visionbling.com)
-- ⚡ Fun fact: I own a community where I help young people transition know as [Visionbling](https://visionbling.com/)
+- ⚡ Fun fact: I own a community where I help young people transition to tech. My community name is [Visionbling](https://visionbling.com/)
 
 ## 🛠 Tech Stack
 
