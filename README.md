@@ -38,9 +38,6 @@ I'm a Senior Full-Stack Engineer specializing in enterprise application developm
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ulomaramma&layout=compact)
 
-## 📈 GitHub Stats
-
-![Uloma's GitHub Stats](https://github-readme-stats.vercel.app/api?username=ulomaramma&show_icons=true&theme=radical)
 
 
 📝 I  write articles on [Medium](https://medium.com/@ulomaobilookenyi) about my experiences and lessons learned from working on the projects I have worked on
