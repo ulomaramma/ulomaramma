@@ -28,13 +28,6 @@ I'm a Senior Full-Stack Engineer specializing in enterprise application developm
 - 📫 How to reach me: [uloma.okenyi@visionbling.com](mailto:uloma.okenyi@visionbling.com)
 - ⚡ Fun fact: I own a community where I help young people transition to tech. My community name is [Visionbling](https://visionbling.com/)
 
-## 🛠 Tech Stack
-
-- **Frontend:** HTML5, CSS3, JavaScript, React.js, Razor Pages, Jquery Ajax
-- **Backend:** ASP.NET Core Web API, Node.js, Spring Boot
-- **Databases:** SQL Server, PostgreSQL, MongoDB
-- **DevOps:**  Azure
-- **Tools:** Git, GitHub, Visual Studio Code, Visual Studio, IntelliJ IDE
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ulomaramma&layout=compact)
 
